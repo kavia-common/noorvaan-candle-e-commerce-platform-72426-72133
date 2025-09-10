@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/noorvaan-candle-e-commerce-platform-72426-72133/ProductsDatabase"
+}
